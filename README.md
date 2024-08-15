@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://avatars.githubusercontent.com/u/140732721?v=4" width = 50px></picture> **About me**
 
-<picture> <img align="center" src="https://media.discordapp.net/attachments/1062745637789122580/1272611343622475916/3d148cbdb78507a34fb73bf096adf5dc.png?ex=66bee6ec&is=66bd956c&hm=12cd1a615b0f5a45a4e820a686e11f17e362d6aef6d7d21e06ac54a48fc84b03&=&format=webp&quality=lossless&width=1035&height=345" width = 250px></picture>
+<picture> <img align="right" src="https://media.discordapp.net/attachments/1062745637789122580/1272611343622475916/3d148cbdb78507a34fb73bf096adf5dc.png?ex=66bee6ec&is=66bd956c&hm=12cd1a615b0f5a45a4e820a686e11f17e362d6aef6d7d21e06ac54a48fc84b03&=&format=webp&quality=lossless&width=1035&height=345" width = 500px></picture>
 
 <br>
 
